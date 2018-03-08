@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">EatWhat</string>
+    <string name="title_eatwhat">吃啥</string>
+    <string name="title_menu">菜单</string>
+
+    <string name="category">类别</string>
+    <string name="number">数量</string>
+    
+    <string name="button_meat">荤菜</string>
+    <string name="button_vegetable">素菜</string>
+    <string name="button_mix">半荤半素</string>
+    <string name="button_soup">汤</string>
+
+    <string name="str_generator">生成菜单</string>
+</resources>
